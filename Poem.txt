@@ -7,6 +7,7 @@ Yellow
 Blue 
 Green
 Red
+Utsav
 
 These are the colors of the rainbow and the unicorn
 
